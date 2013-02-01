@@ -12,6 +12,6 @@ bin-release/
 
 
 # python eggs
-simpleshop.egg-info/
+botiga.egg-info/
 *.pyc
 
